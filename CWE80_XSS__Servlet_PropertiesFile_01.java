@@ -1,7 +1,7 @@
 /* TEMPLATE GENERATED TESTCASE FILE
 Filename: CWE80_XSS__Servlet_PropertiesFile_01.java
 Label Definition File: CWE80_XSS__Servlet.label.xml
-Template File: sources-sink-01.tmpl.java
+Template File: sources-sink-01.tmpl.java01
 */
 /*
 * @description
